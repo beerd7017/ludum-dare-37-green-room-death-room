@@ -1,4 +1,4 @@
-# Welcome to the Green Room Death Room
+# Welcome to the LD 37 -Green Room Death Room repo
 
 ## Purpose
 This repository is for my attempt at Ludum Dare 37 game jam. The theme for this game jam was "One Room". My idea for the game was that the player controls the environment and creates natural disaster for the metorologists who are trapped in a greenroom while broadcasting the news.
